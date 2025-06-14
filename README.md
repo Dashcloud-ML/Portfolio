@@ -9,7 +9,7 @@ This portfolio reflects my journey as a developer and serves as a hub for my ach
 💻 **Key Features**:  
 - **Dynamic UI**: Bento grids and infinite loops enhance interactivity and modern appeal.  
 - **Functional Integrations**: Tools like **SendGrid** ensure robust capabilities.  
-- **Responsive Design**: Deployed on **Netlify**, offering seamless access across devices.  
+- **Responsive Design**: Deployed on **AWS Amplify**, offering seamless access across devices.  
 - **Aesthetic Animations**: Adding a visual edge to the browsing experience.  
 
 🌟 **Development Milestone**:  
